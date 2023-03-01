@@ -1,0 +1,156 @@
+{
+  "vendedores": [
+    {
+      "id": 1,
+      "tipo": "Pousada em uma excelente localização, vista linda próximo a tudo. Ótima opção para viagem com crianças, sem contar que está ao lado do melhor restaurante que já fui. Café da manhã simples, mas muito gostoso. A pousada tem aquela vibe familiar, e a cama é maravilhosa. Amamos e vamos voltar mais vezes com certeza.",
+      "nome": "Renata Albuquerque",
+      "idade": "Mauá, SP",
+      "ano-admissao": 2008,
+      "salario": 3050,
+      "cpf": 4901457796,
+      "rg": "4645454646"
+    },
+    {
+      "id": 2,
+      "tipo": "Ficamos encantados com o atendimento, limpeza e organização da pousada. O complexo tem restaurante com frutos do mar, peixes e uma comida de mãe muito boa. O Barzinho Pacífico que também está incluso, tem cerveja artesanal, música ao vivo e ambiente familiar. Recomendo.",
+      "nome": "Angela Dutra",
+      "idade": "Saquarema, RJ",
+      "ano-admissao": 2017,
+      "salario": 2550,
+      "cpf": 854679562,
+      "rg": "645454"
+    },
+    {
+      "id": 3,
+      "tipo": "Gostei muito da pousada, aconchegante, limpinha, organizada. Ótimo atendimento, funcionários prestativos. Café da manhã excelente também, valeu muito a minha estadia no local, voltaria outras vezes, sem sombra de dúvidas.",
+      "nome": "Alberto Duarte",
+      "idade": "Joinville, SC",
+      "ano-admissao": 2005,
+      "salario": 1500,
+      "cpf": 1216479632,
+      "rg": "45646545"
+    },
+    {
+      "id": 4,
+      "tipo": "Atendimento perfeito com muita simpatia e atenção a limpeza impecável café da manhã bem variado com sucos, bolos café quentinho, frutas e muito mais sem contar a vista que é linda . Tomar café com a vista do pôr do sol é magnífico. O quarto bem organizado com cama e banho limpinhos e cheirosos. Pousada perfeita eu amei principalmente pelo atendimento com minha família e minha filha cadeirante.",
+      "nome": "Bruno Silva",
+      "idade": "Foz do Iguaçú, PR",
+      "ano-admissao": 2019,
+      "salario": 1500,
+      "cpf": 9874545985,
+      "rg": "654464564567"
+    }
+  ],
+  "imovel": [
+    {
+      "id": 1,
+      "tipo": "Casa",
+      "rgi": "321465865",
+      "cep": "23251078",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "logradouro": "Rua Goulart de Andrade",
+      "numero": "68",
+      "complemento": "Prox a fábrica",
+      "bairro": "Campo grande",
+      "budget": "90000 Usar o valor para entrar com o texto"
+    },
+    {
+      "id": 2,
+      "tipo": "Apartamento",
+      "rgi": "74568231456",
+      "cep": "23510190",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "logradouro": "Rua Travassos Vieira",
+      "numero": "751",
+      "complemento": "Em frente ao Posto 8",
+      "bairro": "Recreio",
+      "budget": "200000"
+    },
+    {
+      "id": 3,
+      "tipo": "Terreno",
+      "rgi": "53584569874",
+      "cep": "23510905",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "logradouro": "Rua 25 de março",
+      "numero": "168",
+      "complemento": "Prox a padaria",
+      "bairro": "Barra da Tijuca",
+      "budget": "300000"
+    },
+    {
+      "rgi": "dasdasd",
+      "tipo": "Apartamento",
+      "cep": "sadaads",
+      "logradouro": "adsad",
+      "numero": "adsda",
+      "complemento": "adsda",
+      "bairro": "adsadasd",
+      "cidade": "asdasd",
+      "estado": "adsads",
+      "budget": "adasd",
+      "category": {
+        "id": "apartamento",
+        "tipo": "Apartamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "rgi": "asdasd",
+      "cep": "asdasd",
+      "logradouro": "asdasd",
+      "numero": "asdasd",
+      "complemento": "asdas",
+      "bairro": "asdads",
+      "cidade": "asdads",
+      "estado": "asdads",
+      "budget": "asdasd",
+      "category": {
+        "id": "apartamento",
+        "tipo": "Apartamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    }
+  ],
+  "compradores": [
+    {
+      "id": 1,
+      "tipo": "https://bileto.sympla.com.br/event/77603/d/177014",
+      "nome": "Chave do Mestre",
+      "imovelId": 1,
+      "idade": "21/02 a 12/03",
+      "evento": "O Tour Chave do Mestre é uma visitação integralmente guiada, passando pela história, arte e ciência da fabricação de cerveja. A visita conta também com o acesso exclusivo à micro cervejaria, e com mais uma degustação. Você fará uma imersão ao conhecimento cervejeiro, processo de produção, equipamentos, curiosidades e ganhará um brinde exclusivo."
+    },
+    {
+      "id": 2,
+      "tipo": "https://linktr.ee/rockthemountain ",
+      "nome": "Veteran sobe a serra",
+      "imovelId": 2,
+      "idade": "25/03",
+      "evento": "Atendendo a pedidos dos nossos associados, no dia 25/03 vamos subir a serra de Petrópolis com os nossos carros antigos, para almoçar no Hotel Pedra Bonita, um dos lugares mais lindos da região. Faremos um bate e volta, com encontro às 9h horas na Casa do Alemão (Duque de Caxias), com saída às 9:30h em carreata. Nossos veículos ficarão expostos gratuitamente em um local exclusivo, para que possamos realizar a nossa exposição."
+    },
+    {
+      "id": 3,
+      "tipo": "https://linktr.ee/rockthemountain ",
+      "nome": "Bauernfest",
+      "imovelId": 3,
+      "idade": "23/06 a 09/07",
+      "evento": "A cada inverno, Petrópolis, a Cidade Imperial, se transforma em um burgo alemão com a Bauernfest. A Festa do Colono conta com os tradicionais desfiles nas ruas do Centro da Cidade; concursos de chope a metro, de cuca alemã e de chapéu mais enfeitado; exposições; contação de histórias; além de muita música e gastronomia. (A Bauernfest é destaque também no Portal Brasil, que informa turistas a respeito dos diversos eventos, congressos e festas típicas que ocorrem em todo o Brasil.)"
+    },
+    {
+      "id": 4,
+      "tipo": "https://linktr.ee/rockthemountain ",
+      "nome": "Rock the Montain",
+      "idade": "04, 05 e 11, 12 de Novembro",
+      "imovelId": 4,
+      "evento": "O Rock the Mountain é um festival de música e arte que acontece em Itaipava, Petrópolis no Rio de Janeiro. A proposta é simples: Promover uma experiência única com muito astral para um público especial, na charmosa serra fluminense! O RTM reúne, em meio à natureza, juventude, modernidade, sustentabilidade, liberdade, estilo, diversão, gastronomia e claro, MUITA música num dia que promete ser inesquecível!"
+    }
+  ]
+}

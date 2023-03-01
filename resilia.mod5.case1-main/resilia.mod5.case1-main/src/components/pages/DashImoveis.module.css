@@ -1,0 +1,15 @@
+.project_container {
+    padding: 2em;
+    flex-wrap: wrap;
+}
+
+.title_container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+    
+}
+
+.teste_container{
+    background-color: aqua;
+}
